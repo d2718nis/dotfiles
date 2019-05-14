@@ -1,0 +1,53 @@
+! terminal colors ------------------------------------------------------------
+
+! Google Material Design
+
+! *background 		: #263238
+! *background		: #343a42
+*background			: #1f2123
+*foreground 		: #eceff1
+
+! black
+*color0  			: #263238
+*color8  			: #37474f
+! red
+*color1  			: #ff9800
+*color9  			: #ffa74d
+! green
+*color2  			: #8bc34a
+*color10 			: #9ccc65
+! yellow
+*color3  			: #ffc107
+*color11 			: #ffa000
+! blue
+*color4  			: #03a9f4
+*color12 			: #81d4fa
+! magenta
+*color5  			: #e91e63
+*color13 			: #ad1457
+! cyan
+*color6  			: #009688
+*color14 			: #26a69a
+! white
+*color7  			: #cfd8dc
+*color15 			: #eceff1
+
+
+XTerm.vt100.internalBorder: 8
+
+
+XTerm*faceName: DejaVu Sans Mono
+! XTerm*faceName: Inconsolata
+! XTerm*faceName: Inconsolata LGC
+XTerm*faceSize: 7
+Xterm*utf8: 2
+Xterm*utf8Fonts: 2
+XTerm*borderWidth: 0
+XTerm*locale: true
+XTerm*VT100.geometry: 150x40
+
+! Xft.dpi: 282
+! Xft.dpi: 192
+Xft.dpi: 242
+
+Xcursor.size: 12
